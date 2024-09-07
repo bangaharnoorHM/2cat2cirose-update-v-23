@@ -1,0 +1,32 @@
+{
+    "name": "2CAT2CIROSE update v. 2.3",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.8.29",
+        "tag": "v1.8.29",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/d9e3489664e2b8e4c3245a43d28fca1ca5ea001a",
+        "target": "1.12.56",
+        "pxt": "7.4.30",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
